@@ -1,0 +1,5 @@
+target
+.idea
+sbt-dist
+sbt
+sbt.bat
